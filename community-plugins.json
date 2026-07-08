@@ -38561,5 +38561,13 @@
     "author": "kebl3541",
     "description": "Sync your vault with Google Drive using your own credentials. Text conflicts resolve by word level three way merge instead of conflicted copies, and deletes go to trash, never into the void. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kebl3541/Obsidian-Google-Drive-Merge-Sync"
-  }
+  },
+  {
+  "id": "obsidian-confluence-git-sync",
+  "name": "Confluence Git Sync",
+  "author": "DIAL Studio",
+  "description": "Publish Obsidian notes to Confluence with Git as source of truth. Idempotent, batch, frontmatter-to-labels, wiki-link resolution, and GitHub Actions CI/CD.",
+  "repo": "DIAL-Studio/obsidian-confluence-git-sync",
+  "branch": "main"
+}
 ]
